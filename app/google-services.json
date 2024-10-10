@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842647713639",
+    "project_id": "fish-pond-monitoring-sys-c1369",
+    "storage_bucket": "fish-pond-monitoring-sys-c1369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842647713639:android:35cb156b9baa48632be1c2",
+        "android_client_info": {
+          "package_name": "com.example.mymsat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWHAHvrJAyiISRE4BtqGZDaGY-Pmbrcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
